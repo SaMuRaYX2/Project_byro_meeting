@@ -1,0 +1,30 @@
+﻿  Source.cpp
+D:\My Homework\C++\Practika_3\Project\Source.cpp(126,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(137,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(148,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(168,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(179,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(514,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(523,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(588,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(614,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(660,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(689,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(718,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(745,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(535,7): warning C4101: 'temp_value_tab': unreferenced local variable
+D:\My Homework\C++\Practika_3\Project\Source.cpp(539,6): warning C4101: 'type_element': unreferenced local variable
+D:\My Homework\C++\Practika_3\Project\Source.cpp(532,6): warning C4101: 'len_to_tab': unreferenced local variable
+D:\My Homework\C++\Practika_3\Project\Source.cpp(786,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(795,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(860,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(886,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(932,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(961,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(990,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(1017,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Homework\C++\Practika_3\Project\Source.cpp(807,7): warning C4101: 'temp_value_tab': unreferenced local variable
+D:\My Homework\C++\Practika_3\Project\Source.cpp(811,6): warning C4101: 'type_element': unreferenced local variable
+D:\My Homework\C++\Practika_3\Project\Source.cpp(804,6): warning C4101: 'len_to_tab': unreferenced local variable
+D:\My Homework\C++\Practika_3\Project\Source.cpp(5297,9): warning C4101: 'temp_context1': unreferenced local variable
+  Project.vcxproj -> D:\My Homework\C++\Practika_3\x64\Debug\Project.exe
