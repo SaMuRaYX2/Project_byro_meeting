@@ -1735,7 +1735,7 @@ void menu1(int num, struct marryed* partner,char** token_menu,char** token_month
 			}
 			case 4: {
 				output_all(num, partner, token_menu,index_of_needless_partners);
-				while (getchar() != '\n');
+				//while (getchar() != '\n');
 				break;
 			}
 			case 5: {
@@ -1996,7 +1996,7 @@ void menu1(int num, struct marryed* partner,char** token_menu,char** token_month
 					printf("\t\t\t|--------->мелю╙_гмюидемн╞_оюпх<--------|\n");
 					printf("\t\t\t|_______________________________________|\n");
 				}
-				while (getchar() != '\n');
+				//while (getchar() != '\n');
 				break;
 			}
 			case 9: {
@@ -2020,7 +2020,7 @@ void menu1(int num, struct marryed* partner,char** token_menu,char** token_month
 					printf("\t\t\t|-------------->юпу╡б_осярхи<-----------|\n");
 					printf("\t\t\t|_______________________________________|\n");
 				}
-				while (getchar() != '\n');
+				//while (getchar() != '\n');
 				break;
 			}
 			case 10: {
@@ -2045,7 +2045,7 @@ void menu1(int num, struct marryed* partner,char** token_menu,char** token_month
 					printf("\t\t\t|-------------->юпу╡б_осярхи<-----------|\n");
 					printf("\t\t\t|_______________________________________|\n");
 				}
-				while (getchar() != '\n');
+				//while (getchar() != '\n');
 				break;
 			}
 			case 11: {
@@ -2088,7 +2088,7 @@ void menu1(int num, struct marryed* partner,char** token_menu,char** token_month
 					printf("\t\t|-----бх_ме_бхбекх_бхдюкемхи_юпу╡б---|\n");
 					printf("\t\t|____________________________________|\n");
 				}
-				while (getchar() != '\n');
+				//while (getchar() != '\n');
 				break;
 			}
 		}
@@ -2098,6 +2098,8 @@ void menu1(int num, struct marryed* partner,char** token_menu,char** token_month
 		if (newpoint != NULL) {
 			*newpoint = '\0';
 		}*/
+		printf("\t\t\tPress any key . . . . . .");
+		while (getchar() != '\n');
 		system("cls");
 	} while (strcmp(action, "n") != 0);
 }
